@@ -26,4 +26,4 @@ Just create new file in `app/public/article` directory with `index.html` file an
 
 You can always take a look on [real life example](https://github.com/schibsted-seals/newsano/blob/master/app/public/articles/lillehammer/index.html).
 
-When your pull request be accepted, you will see your work on our [QA environment](http://newsano-dev.seals.schibsted.pl/).
+When your pull request be accepted, you will see your work on our [QA environment](http://newsano-dev.seals.schibsted.pl/). Best one will be visible on [production site](http://newsano-prod.seals.schibsted.pl/).
